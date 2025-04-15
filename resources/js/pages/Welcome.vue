@@ -34,7 +34,7 @@ import { Head, Link } from '@inertiajs/vue3';
                 <div class="flex-1 rounded-bl-lg rounded-br-lg bg-white p-6 pb-12 text-[13px] leading-[20px] shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] dark:bg-[#161615] dark:text-[#EDEDEC] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d] lg:rounded-br-none lg:rounded-tl-lg lg:p-20">
                     <h1 class="mb-4 text-2xl font-bold">Добро пожаловать в IDVP</h1>
                     <p class="mb-6 text-[#706f6c] dark:text-[#A1A09A]">
-                        Intelligent Data Verification Platform - передовое решение для автоматизированной
+                        Interactive Data Verification Platform - передовое решение для автоматизированной
                         проверки и обработки данных с использованием искусственного интеллекта.
                     </p>
 
@@ -72,7 +72,7 @@ import { Head, Link } from '@inertiajs/vue3';
                 <div class="relative -mb-px aspect-335/376 w-full shrink-0 overflow-hidden rounded-t-lg bg-gradient-to-br from-[#0066FF] to-[#00C6FF] dark:from-[#0a1a3a] dark:to-[#1a365d] lg:-ml-px lg:mb-0 lg:aspect-auto lg:w-[438px] lg:rounded-r-lg lg:rounded-t-none">
                     <div class="absolute inset-0 flex flex-col items-center justify-center p-8 text-center">
                         <h1 class="text-7xl font-bold text-white">IDVP</h1>
-                        <p class="mt-4 text-lg text-white/80">Интеллектуальная платформа<br>верификации данных</p>
+                        <p class="mt-4 text-lg text-white/80">Интерактивная платформа<br>верификации данных</p>
                     </div>
                     <div class="absolute inset-0 rounded-t-lg shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d] lg:overflow-hidden lg:rounded-r-lg lg:rounded-t-none"></div>
                 </div>
