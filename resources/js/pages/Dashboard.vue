@@ -130,7 +130,7 @@ const breadcrumbs: BreadcrumbItem[] = [
                             </div>
                             <div>
                                 <p class="text-sm text-gray-500 dark:text-gray-400">Последнее обновление</p>
-                                <p class="font-medium dark:text-white">15.05.2023</p>
+                                <p class="font-medium dark:text-white">15.05.2025</p>
                             </div>
                         </div>
                     </div>
