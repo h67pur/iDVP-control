@@ -52,12 +52,12 @@ const timeRemaining = ref('')
 const updateHistory = ref<HistoryRecord[]>([
     {
         version: '2.4.1',
-        date: '15 мая 2023',
+        date: '15 апр 2025',
         status: 'success'
     },
     {
         version: '2.3.8',
-        date: '28 апр 2023',
+        date: '14 апр 2025',
         status: 'success'
     }
 ])

@@ -217,7 +217,7 @@ const components = ref<Component[]>([
         status: 'Работает',
         isRunning: true,
         isProcessing: false,
-        lastUpdated: '15.04.2023 14:30',
+        lastUpdated: '15.04.2025 14:30',
         resources: {
             cpu: 45,
             memory: 32,
@@ -232,7 +232,7 @@ const components = ref<Component[]>([
         status: 'Работает',
         isRunning: true,
         isProcessing: false,
-        lastUpdated: '10.04.2023 09:15',
+        lastUpdated: '10.04.2025 09:15',
         resources: {
             cpu: 28,
             memory: 45,
@@ -247,7 +247,7 @@ const components = ref<Component[]>([
         status: 'Остановлен',
         isRunning: false,
         isProcessing: false,
-        lastUpdated: '05.04.2023 16:45',
+        lastUpdated: '05.04.2025 16:45',
         resources: {
             cpu: 0,
             memory: 5,
@@ -263,10 +263,10 @@ const expandedComponents = ref<Record<string, boolean>>({
 })
 
 const updateHistory = ref<UpdateHistoryItem[]>([
-    { component: 'iDVP-Admin', version: '2.5.0', date: '15.04.2023 14:30', status: 'Успешно' },
-    { component: 'iDVP-Analytics', version: '1.16.1', date: '10.04.2023 09:15', status: 'Успешно' },
-    { component: 'iDVP-Data', version: '2.12.5', date: '05.04.2023 16:45', status: 'Ошибка' },
-    { component: 'iDVP-Data', version: '2.12.5', date: '03.04.2023 11:20', status: 'Успешно' }
+    { component: 'iDVP-Admin', version: '2.5.0', date: '15.04.2025 14:30', status: 'Успешно' },
+    { component: 'iDVP-Analytics', version: '1.16.1', date: '10.04.2025 09:15', status: 'Успешно' },
+    { component: 'iDVP-Data', version: '2.12.5', date: '05.04.2025 16:45', status: 'Ошибка' },
+    { component: 'iDVP-Data', version: '2.12.5', date: '03.04.2025 11:20', status: 'Успешно' }
 ])
 
 const breadcrumbs: BreadcrumbItem[] = [
