@@ -35,7 +35,7 @@ import { Head, Link } from '@inertiajs/vue3';
                     <h1 class="mb-4 text-2xl font-bold">Добро пожаловать в IDVP-Console</h1>
                     <p class="mb-6 text-[#706f6c] dark:text-[#A1A09A]">
                         Interactive Data Verification Platform Console - передовое решение для автоматизированной
-                        проверки и обработки данных с использованием искусственного интеллекта.
+                        проверки и обработки данных.
                     </p>
 
                     <ul class="mb-6 space-y-4">
